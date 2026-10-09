@@ -1,0 +1,19 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Runtime data (created automatically by the bot)
+data/*
+!data/.gitkeep
+
+# Logs / OS / editor
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
